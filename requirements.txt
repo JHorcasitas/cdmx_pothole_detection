@@ -1,0 +1,3 @@
+boto3==1.28.62
+opencv-python==4.8.1.78
+loguru==0.7.2
